@@ -14310,7 +14310,7 @@ window.addEventListener('DOMContentLoaded', () => {
   (0,_modules_tabs__WEBPACK_IMPORTED_MODULE_2__["default"])('.decoration_slider', '.no_click', '.decoration_content > div > div', 'after_click');
   (0,_modules_tabs__WEBPACK_IMPORTED_MODULE_2__["default"])('.balcon_icons', '.balcon_icons_img', '.big_img > img', 'do_image_more', 'inline-block');
   (0,_modules_forms__WEBPACK_IMPORTED_MODULE_3__["default"])(modalState);
-  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_5__["default"])('#timer', '2023-10-11');
+  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_5__["default"])('#timer', '2023-12-11');
   (0,_modules_images__WEBPACK_IMPORTED_MODULE_6__["default"])();
 });
 })();
